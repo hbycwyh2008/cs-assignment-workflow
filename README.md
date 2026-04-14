@@ -20,6 +20,8 @@ Course materials for **`planning.md`**: policy, student-facing expectations, a 4
 | [commits_process_examples.md](commits_process_examples.md) | Strong vs weak commit-history examples (includes VEX pattern) |
 | [reflection_examples.md](reflection_examples.md) | Strong vs weak reflection samples |
 | [planing_rubrics.md](planing_rubrics.md) | All rubrics (planning + optional process + reflection) |
+| [markdown_quick_guide_student_handout_color_v2.pdf](markdown_quick_guide_student_handout_color_v2.pdf) | Markdown quick guide (student handout, color) |
+| [how_you_work_matters_poster_v2.png](how_you_work_matters_poster_v2.png) | “How you work matters” poster image |
 
 ## Use with assignments
 
