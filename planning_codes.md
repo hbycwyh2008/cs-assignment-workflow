@@ -60,7 +60,7 @@ Day 4:
 
 Day 5:
 - clean up the code
-- write reflection
+- write reflection (if the assignment requires it)
 - submit final version
 
 ## Possible Challenges

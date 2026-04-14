@@ -58,6 +58,7 @@ Day 4:
 Day 5:
 - fix problems
 - improve small details
+- write reflection (if the assignment requires it)
 - submit final version
 
 ## Possible Challenges
