@@ -1,21 +1,23 @@
 # APCSA — MCQ (full tests & past papers)
 
-One table per section. Add a row for each question you miss.
+Same **idea** as `frq.md`, but MCQs usually have **no code snippet**—use *My wrong answer* / *Correct answer* (letter or short phrase). If the question is code tracing, you can paste a one-line snippet.
+
+One table per section.
 
 ## Barron
 
-| Date | Test # | Q # | Topic | What went wrong | Rule / fix |
-|------|--------|-----|-------|-----------------|------------|
-| | | | | | |
+| Source | Topic | My wrong answer | Correct answer | Error type | Why I got it wrong | Correct pattern / rule | Reminder |
+|--------|-------|-----------------|----------------|------------|-------------------|------------------------|----------|
+| | | | | | | | |
 
 ## 5 Steps to a 5
 
-| Date | Test # | Q # | Topic | What went wrong | Rule / fix |
-|------|--------|-----|-------|-----------------|------------|
-| | | | | | |
+| Source | Topic | My wrong answer | Correct answer | Error type | Why I got it wrong | Correct pattern / rule | Reminder |
+|--------|-------|-----------------|----------------|------------|-------------------|------------------------|----------|
+| | | | | | | | |
 
 ## Past papers
 
-| Date | Exam year / form | Q # | Topic | What went wrong | Rule / fix |
-|------|------------------|-----|-------|-----------------|------------|
-| | | | | | |
+| Source | Topic | My wrong answer | Correct answer | Error type | Why I got it wrong | Correct pattern / rule | Reminder |
+|--------|-------|-----------------|----------------|------------|-------------------|------------------------|----------|
+| | | | | | | | |
