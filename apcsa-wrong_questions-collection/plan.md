@@ -1,41 +1,45 @@
-# Plan — APCSA wrong-question collection (MCQ + FRQ)
+# Plan — APCSA wrong-question collection (this assignment: Barron book MCQs)
 
-[Course artifact: keep `mcq.md`, `frq.md`, and this plan in the same folder.]
+[Course artifact: keep `plan.md`, `reflection.md`, and `mcq.md` in this folder. Use `frq.md` only if your teacher also assigns FRQ logging.]
 
-## Task
+## Task (this assignment)
 
-Build and maintain a **single place** in this repository for APCSA exam prep mistakes:
+Collect **every multiple-choice question you get wrong** from **all MCQ material in your Barron APCSA book** (and Barron Online MCQ that matches the book, if your teacher counts that as part of “Barron”).
 
-- **`mcq.md`** — wrong answers from **Barron** and *5 Steps* **full-length MCQ** practice tests, plus **past released exams** (multiple choice only).
-- **`frq.md`** — missed points and rubric alignment for **Barron** FRQ practice (e.g. Barron Online sets), *5 Steps* FRQs, and **College Board past FRQs**.
+That usually includes, depending on your edition:
 
-Each wrong item becomes **one row** in the correct file and section (Barron / 5 Steps / Past papers).
+- **End-of-chapter / topic review** MCQs  
+- **Unit or diagnostic** MCQ sets in the book  
+- **Full-length practice exams** (MCQ sections only) printed in the book or assigned through Barron’s site  
+
+Each missed MCQ → **one new row** in `mcq.md` under **## Barron**.
+
+Do **not** put free-response write-ups here; those belong in `frq.md` if assigned.
 
 ## Problem breakdown
 
-1. **After each practice session** — While the test is fresh, add rows for questions you missed or almost missed (not only “random guesses”).
-2. **MCQ** — Use `mcq.md`: record *Source*, what the item tested, wrong vs correct answer, why you erred, rule/reminder.
-3. **FRQ** — Use `frq.md`: record *Source*, skills tested, what the rubric expected, where points were lost, fix and reminder.
-4. **Past papers** — When you use official materials, use the **Past papers** tables and put **year + form + question** in *Source*.
-5. **Git** — Commit in **small batches** (e.g. after each test or each study block) so history shows steady work, not one upload at the deadline.
+1. **Inventory** — List every Barron MCQ block you must cover (chapter names + practice exam numbers). Check them off as you finish.
+2. **Same-day logging** — After each study block, add rows while you still remember *why* you picked the wrong answer.
+3. **Precise *Source*** — So you can find the item again, use a pattern like:  
+   `Ch 6 Review Q14` · `Diagnostic Test B Q22` · `Practice Exam 2 MCQ Q8` · `Barron Online — Practice Test 1 Q17` (adjust labels to match your book/website).
+4. **Quality** — Fill every column for each row (*What this question is testing* through *Reminder*). Skip only if your teacher allows minimal entries.
+5. **Git** — Commit and push in **batches** (e.g. after each chapter or each practice exam), not one giant upload at the deadline.
 
 ## Time plan
 
 | Session focus | Goal |
 |---------------|------|
-| Early | Finish this `plan.md`; set up (or confirm) column headers in `mcq.md` / `frq.md`. |
-| Ongoing | After each full MCQ test → add rows to the right section of `mcq.md`. |
-| Ongoing | After each FRQ set or timed FRQ → add rows to `frq.md`. |
-| Before exam week | Skim **Reminder** columns only; re-do the highest-value missed topics. |
-
-Adjust dates to your real schedule; the habit matters more than the exact calendar.
+| Setup | Finish this `plan.md`; skim `mcq.md` column headers. |
+| Ongoing | Work through Barron MCQ sections in order; add rows to **Barron** for each mistake. |
+| Midway | Quick count: any chapter with zero rows might mean you have not logged yet—or you truly aced it. |
+| Before due date | Reread the **Reminder** column only; redo weak topics. |
 
 ## Possible challenges
 
-- Mixing **FRQ rows into `mcq.md`** by mistake — keep FRQ code/tracing write-ups in `frq.md` only.
-- **Wide tables** in the editor — keep each cell short; use one line for code when possible.
-- **Forgetting source details** — note test name and question number the same day you log the mistake.
+- **Volume** — Many rows; keep cells short (one line per cell when possible).
+- **Same mistake, many questions** — You may still add one row per question; optionally repeat the same *Reminder* text so it is easy to search.
+- **Online vs print** — If the question exists in both, pick one naming scheme and stay consistent in *Source*.
 
 ## First step
 
-Complete one **real** row in `frq.md` under **Barron** (or your next FRQ source) and one **real** row in `mcq.md` under **Barron** after your next full MCQ test, then commit with a clear message.
+Open your Barron book’s **first MCQ set** you still need to complete, work it, and add **one real row** to `mcq.md` → **Barron** for each question you miss, then commit with a message such as: `Barron Ch N review — log missed MCQs`.

@@ -1,5 +1,7 @@
 # APCSA — FRQ
 
+*If your current assignment is **Barron MCQ only**, you may leave this file as reference or empty; the required log for that task is `mcq.md` → **Barron**.*
+
 One table per section. Add a row for each part you want to track against the scoring guideline.
 
 For **past papers**, put the **year and form** in *Source* (e.g. `2024 Form A — FRQ 2`). When you can, align *What the scoring guideline expected* with the **official College Board rubric** wording.
